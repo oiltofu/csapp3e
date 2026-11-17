@@ -1,2 +1,5 @@
 .vscode
 **/.DS_Store
+
+# Local textbook reference; restore from the source recorded in AGENTS.md.
+/references/csapp-zh-markdown/
